@@ -7,7 +7,7 @@ tag:
 - markdown
 star: true
 category: blog
-author: johndoe
+author: ahmedkhd
 description: Markdown summary with different options
 ---
 
