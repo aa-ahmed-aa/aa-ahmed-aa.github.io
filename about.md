@@ -4,43 +4,40 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>My name is Ahmed khaled mohamed, if you are interested to know about me look at my pinned repos on github and if you get more excited to know more 
+about me check my blog and if you want to know more just follow me on twitter.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
 	<li>Git</li>
 	<li>PHP</li>
-	<li>Python</li>
+	<li>Python 2/3</li>
+	<li>C/C++</li>
+	<li>Javascript</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Angular</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/aa-ahmed-aa/Dorm">Dorm</a></li>
+	<li><a href="https://github.com/aa-ahmed-aa/Zeta">Zeta offline judge</a></li>
+</ul>
+
+<h2>Solid Knowledge Of</h2>
+<ul>
+	<li>Design patterns</li>
+	<li>Algorithms and Problem solving techniques</li>
+	<li>Unit Testing</li>
+	<li>Automation</li>
+	<li>Web Crawling</li>
+</ul>
+
+<h2>Experience</h2>
+<ul>
+	<li>2017 => Nerve labs</li>
+	<li>2018 => Tanqeeb.com</li>
 </ul>
