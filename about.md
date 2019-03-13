@@ -20,13 +20,6 @@ about me check my blog and if you want to know more just follow me on twitter.</
 	<li>Angular</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/aa-ahmed-aa/Dorm">Dorm</a></li>
-	<li><a href="https://github.com/aa-ahmed-aa/Zeta">Zeta offline judge</a></li>
-</ul>
-
 <h2>Solid Knowledge Of</h2>
 <ul>
 	<li>Design patterns</li>
@@ -34,10 +27,4 @@ about me check my blog and if you want to know more just follow me on twitter.</
 	<li>Unit Testing</li>
 	<li>Automation</li>
 	<li>Web Crawling</li>
-</ul>
-
-<h2>Experience</h2>
-<ul>
-	<li>2017 => Nerve labs</li>
-	<li>2018 => Tanqeeb.com</li>
 </ul>
