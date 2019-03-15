@@ -8,8 +8,9 @@ tag:
 star: true
 category: blog
 author: ahmedkhd
-description: Zeta :dragon: is an offline judge for programming contests :trophy:
+description: Zeta is an offline judge for programming contests
 ---
+
 Zeta :dragon: is an offline judge for programming contests :trophy:
 <br>
 <p align="center">
@@ -43,14 +44,14 @@ after judging a problem the contestant can get one of 4 responses :- <br>
 #### :oncoming_taxi: Ranking
 - Submition rank <br>
     Submition are ranked according to time and problem rank so the ranking equation is :- <br>
-```php
+{% highlight php %}
                                                      Tstart - Tsub
        submition_rank =   problem_rank    -    _________________________    -    (    wrongAnswerCount   *   5    )
                                                            60
 
        Minimum Submmition Rank is = 40% Of problem rank
 
-```
+{% endhighlight %}
 
 - User rank <br>
     - Users are ranked according to the highest sum of the ACCEPTED problems rank.
