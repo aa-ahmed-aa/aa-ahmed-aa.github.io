@@ -23,9 +23,9 @@ description: In this blog i talk about design patterns from like a getting start
 * Patterns in the real world
 
 <div class="breaker"></div>
+
 ## Who is this blog for
 * if you want to be a better programmer (reading others code - enhancing your skills).
-* if you think of a scenario that your application is scaling up and you need to figure a solution to manage your business requirements .
 * if you are repeating yourself when you write code (unintentionally).
 * those who think design pattern is a black box and can't really know what is a design pattern.
 * sometimes you see snippet of code that you don't understand in programming language 
@@ -45,15 +45,16 @@ i recommend you follow these steps :-
 Two important things you need to know before we go further :-
 
 #### First
-Design pattern is just a clean way to solve a problem and provide flexibility to your code
-not showing of your enhancement skills so if you though you have an idea of making a pattern better first thing is not 
-think if your idea is applied by SOLID(we will come to this later in this blog) or not, think of SOLID as your brakes that will stop your fantasy.
+Design pattern is just a clean way to solve a problem also provides flexibility 
+to your code,so do not enhance any pattern until you make sure that 
+this enhancement is successful applied by the SOLID (we will come to this later), 
+so you can consider solid as your brakes that will stops your fantasy from pattern violation.
 
 #### Second
 Patterns are not used separately from each others at the end of this blog you can use many patterns together like you will see in MVC.
 
 This blog is based on [this repo](https://github.com/aa-ahmed-aa/Design_Pattern) 
-so go ahead and star it.
+so go ahead and star it first then keep going.
 
 <div class="breaker"></div>
 
@@ -200,3 +201,4 @@ patterns aren't a magic bullet you can't plug one in, compile and then take an e
 once you're sure a simple solution will not meet your needs, you should consider the problem 
 along with the set of constraints under which the solution will need to operate- these will help you match your problem to a pattern.
  
+ if you have any question please open an issue with your question on the github repo [Here](https://github.com/aa-ahmed-aa/Design_Pattern/issues).
