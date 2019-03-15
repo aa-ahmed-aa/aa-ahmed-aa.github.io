@@ -116,13 +116,15 @@ $b->showFromA();
 ### Composition and Aggregation
 Composition is effectively an ownership relationship, while aggregation is a “contains” relationship. In composition, the parts can not exist outside the thing that contains them, but individual things can exist on their own as unique entities in aggregation.
 
-#### in order to keep this blog short and sticky to the point i recommend you read this blog [Composition and aggregation](https://www.brainbell.com/tutorials/php/abstract-interface-composition-aggregation.html)
+#### in order to keep this blog short and sticky to the point i recommend you read this short blog [Composition and aggregation](https://www.brainbell.com/tutorials/php/abstract-interface-composition-aggregation.html)
 
 <div class="breaker"></div>
 
 ## Design Patterns
 follow the link of every pattern to see pattern definition, UML, and code examples
+
 > Do not forget to trace the code this is the most important step to get familiar with the pattern
+
 ### [Strategy pattern](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Strategy%20pattern)
 Defines a family of algorithms ,encapsulates each one and makes them interchangable. strategy lets the algorithm vary independently
 
@@ -135,7 +137,7 @@ Decorators provide a flexibile alternative to subclassing extending functionalit
 
 ### [Factory Pattern (Backing with oo Goodness)](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Factory%20pattern)
 Factory pattern divided into two main types (Factory method and Abstract factory), In this pattern i will focus on the difference between the two subset patterns and will code only the factory method.
->> Check the difference between **Abstract Factory** and **Factory Method**
+> Check the difference between **Abstract Factory** and **Factory Method**
 
 ### [Singleton Pattern (One of a kind object)](https://github.com/aa-ahmed-aa/Design_Pattern/tree/master/Singleton%20pattern)
 Ensure that a class has one instance and provide a global point of access to it ,we can say that this pattern is our ticket to creating one-of-a-kind objects for which there is only one instance.
@@ -173,14 +175,18 @@ Categorizing patterns will help us understand the difference between patterns an
 #### Categorize patterns as (Structural - Behavioural - Creational)
 > #### Structural
 >> Decorator - Composite - Proxy - Facade - Adapter
+
 > #### Behavioural
 >> Template Method - Iterator - Command - Observer - State - Strategy
+
 > #### Creational
 >> Singleton - Abstract Factory - Factory Method
 
 #### Categorize patterns that deals with (Class - Object)
+
 > #### Class
 >> Template Method - Adapter - Factory Method
+
 > #### Object
 >> Command - Decorator - Proxy - Composite - Facade - Iterator - Observer - Strategy - Singleton - State - Abstract Method 
 
