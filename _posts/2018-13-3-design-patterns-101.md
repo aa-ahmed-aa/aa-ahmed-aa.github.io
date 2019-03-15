@@ -1,10 +1,10 @@
 ---
 title: "Design patterns 101"
 layout: post
-date: 2018-3-13 06:48
+date: 2018-3-13 18:48
 headerImage: false
 tag:
-- DesignPattern
+- designpatterns
 star: true
 category: blog
 author: ahmedkhd
