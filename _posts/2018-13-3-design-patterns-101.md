@@ -8,8 +8,7 @@ tag:
 star: true
 category: blog
 author: ahmedkhd
-description: In this blog i talk about design patterns from like a getting started 
-tutorial to an advanced patterns you might see in many open source projects
+description: In this blog i talk about design patterns from like a getting started tutorial to an advanced patterns you might see in many open source projects
 ---
 
 ### Table of Content
@@ -23,7 +22,7 @@ tutorial to an advanced patterns you might see in many open source projects
 * Design Patterns
 * Patterns in the real world
 
-
+<div class="breaker"></div>
 ## Who is this blog for
 * if you want to be a better programmer (reading others code - enhancing your skills).
 * if you think of a scenario that your application is scaling up and you need to figure a solution to manage your business requirements .
