@@ -8,5 +8,65 @@ tag:
 star: true
 category: blog
 author: ahmedkhd
-description: In this blog i talk about design patterns from like a getting started tutorial to an advanced patterns you might see in many open source projects
+description: In this blog i talk about design patterns from like a getting started 
+tutorial to an advanced patterns you might see in many open source projects
 ---
+
+# <center>Design Pattern 101 </center>
+
+### Table of Content
+
+* Who is this blog for
+* Before you start
+* Quick Review
+	1. S.O.L.I.D
+	2. Dependency injection
+	3. Object Composition
+* Design Patterns
+* Patterns in the real world
+
+
+## Who is this blog for
+* if you want to be a better programmer (reading others code - enhancing your skills). 
+* those geeks that wants to over-engineer anything.
+* those who think design pattern is a black box and can't really know what is a design pattern.
+* sometimes you see snippet of code that you don't understand in programming language 
+that you have experience with and you wonder why is this code designed this way ? 
+
+## Before you start
+This blog is a brief of 14 design pattern in Head first design pattern, 
+so to get the biggest benefit of this blog,
+i recommend you follow these steps :-
+1. Read the pattern definition.
+2. Understand the problem introduced and try to imagine it in bigger scale.
+3. Read the UML.
+4. Trace the code example.
+5. Open an Issue with your question if there is anything you wonder about.
+
+
+this blog is based on [this repo](https://github.com/aa-ahmed-aa/Design_Pattern) 
+on github, so go ahead and star as a reference for this blog.
+
+## Quick Review
+
+### S.O.L.I.D
+ every letter stands for a specific word with a specific concepts so let's get started right away.
+
+> #### S - Single-responsiblity principle
+>> A class should have one and only one reason to change, meaning that a class should have only one job.
+
+> #### O - Open-closed principle
+>> Objects or entities should be open for extension, but closed for modification.
+
+> #### L - Liskov substitution principle
+>> Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T.
+
+> #### I - Interface segregation principle
+>> A client should never be forced to implement an interface that it doesn't use or clients shouldn't be forced to depend on methods they do not use.
+
+> #### D - Dependency Inversion Principle
+>> Entities must depend on abstractions not on concretions. It states that the high level module must not depend on the low level module, but they should depend on abstractions.
+
+
+* Note : you can find more information about solid and code examples [Here](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design).
+
