@@ -30,7 +30,7 @@ after judging a problem the contestant can get one of 4 responses :- <br>
 - TLE => TIME LIMIT EXCEEDED
 - CE => COMPILER ERROR
 
-![Alt text](https://github.com/aa-ahmed-aa/Zeta/blob/master/screenshots/judge.PNG "Judge")
+![Alt text](https://raw.githubusercontent.com/aa-ahmed-aa/Zeta/master/screenshots/judge.PNG "Judge")
 
 **green judge mean it is recommended to use this type of judging for this submmition**
 
@@ -57,7 +57,7 @@ after judging a problem the contestant can get one of 4 responses :- <br>
     - Users are ranked according to the highest sum of the ACCEPTED problems rank.
     - Scoreboard Time is the time of the user last submition.
 
-    ![Alt text](https://github.com/aa-ahmed-aa/Zeta/blob/master/screenshots/scoreboard.PNG "Judge")
+    ![Alt text](https://raw.githubusercontent.com/aa-ahmed-aa/Zeta/master/screenshots/scoreboard.PNG "Judge")
 
     **Time is the Time of the user last Submmition**
 
