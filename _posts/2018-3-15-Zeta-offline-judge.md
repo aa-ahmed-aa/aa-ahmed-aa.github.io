@@ -14,7 +14,7 @@ description: Zeta is an offline judge for programming contests
 Zeta :dragon: is an offline judge for programming contests :trophy:
 <br>
 <p align="center">
-    <img src="https://github.com/aa-ahmed-aa/Zeta/blob/master/screenshots/main.gif" alt="Landing Page" width="800" height="360" />
+    <img src="https://raw.githubusercontent.com/aa-ahmed-aa/Zeta/master/screenshots/main.gif" alt="Landing Page" width="800" height="360" />
 </p>
 
 ## :guardsman: Features
