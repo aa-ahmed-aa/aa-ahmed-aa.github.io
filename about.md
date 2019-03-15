@@ -14,10 +14,11 @@ about me check my blog and if you want to know more just follow me on twitter.</
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Python 2/3</li>
-	<li>C/C++</li>
 	<li>Javascript</li>
 	<li>MySQL - MongoDB</li>
 	<li>Angular</li>
+	<li>Docker</li>
+	<li>C/C++</li>
 </ul>
 
 <h2>Solid Knowledge Of</h2>
