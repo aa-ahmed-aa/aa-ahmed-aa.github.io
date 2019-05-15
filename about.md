@@ -27,7 +27,7 @@ about me check my blog and if you want to know more just follow me on twitter.</
 <ul>
 	<li>Design patterns</li>
 	<li>Algorithms and Problem solving techniques</li>
-	<li>Unit Testing(TDD, DDD)</li>
+	<li>Unit Testing</li>
 	<li>Automation</li>
 	<li>Web Crawling</li>
 </ul>
