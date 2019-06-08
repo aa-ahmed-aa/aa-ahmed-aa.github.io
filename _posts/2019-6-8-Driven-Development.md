@@ -14,6 +14,8 @@ description: in this blog i will be taking about drived development TDD / BDD / 
 # Driven Development
 > As i would like to describe it driven development is the twist between developers and business guys that makes them survive together to translate the requirements into a software features in an organized flow.
 
+<div class="breaker"></div>
+
 # TDD
 <div class="side-by-side">
     <div class="toleft" style="padding-left: 15%;margin-right: -13%;">
@@ -43,7 +45,7 @@ BDD lets us develop, test and think about the code from the view of the business
 ## Essentials to have in place before implementing BDD
 - Requirements should be converted into user stories that can define concrete examples.
 - Each example should be a valid user scenario, rather than a mere test case.
-- An understanding of the ‘role-feature-reason’ matrix and the ‘given-when-then’ formula.
+- An understanding of the __role-feature-reason__ matrix and the __given-when-then__ formula.
 - An awareness of the need to write ‘the specification of the behavior of a class’ rather than ‘the unit test of a class’.
 
 ## Templates for writing BDD
@@ -52,7 +54,7 @@ Given a certain scenario<br/>
 When an action takes place<br/>
 Then this should be the outcome.<br/>
 #### Example
-![bdd_user_story][https://aa-ahmed-aa.github.io/assets/bdd_user_story.PNG]
+<img src="https://aa-ahmed-aa.github.io/assets/bdd_user_story.PNG" alt="bdd_user_story"/>
 
 ### Role-Feature-Reason matrix
 This template is also used in BDD, in order to aid user story creation. This template is defined as:-
