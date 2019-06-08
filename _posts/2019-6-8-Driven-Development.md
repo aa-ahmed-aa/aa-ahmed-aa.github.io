@@ -24,7 +24,7 @@ description: in this blog i will be taking about drived development TDD / BDD / 
         <figcaption class="caption">TDD Steps</figcaption>
     </div>
     <div class="toright">
-        <p>a short for test-driven-development, TDD can be defined as a programming practice that instructs developers to write new code only if an automated test has failed. This avoids duplication of code. TDD means "Test Driven Development". The primary goal of TDD is to make the code clearer, simple and bug-free.</p>
+        <p>a short for test-driven-development, TDD can be defined as a programming practice that instructs developers to write new code only if an automated test has failed. This avoids duplication of code. TDD means "Test Driven Development". The primary goal of TDD is to make the code clearer, simple and bug-free.follow the diagram to understand the flow of tdd.</p>
         <h4>Advantages of TDD</h4>
         <ul>
             <li>Early bug notification.</li>
