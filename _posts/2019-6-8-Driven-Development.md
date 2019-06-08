@@ -101,17 +101,16 @@ a short for Domain-driven-development,DDD is a software development approach tha
 >The common dictionary definition of domain is: “A sphere of knowledge or activity.”
 
 **Domain** in the realm of software engineering commonly refers to the subject area on which the application is intended to apply. In other words, during application development, the domain is the **sphere of knowledge and activity around which the application logic revolves.**
-<br>
-Another common term used during software development is the **domain layer** or **domain logic**, which may be better known to many developers as the **business logic**. The **business logic** of an application refers to the higher-level rules for how **business objects** interact with one another to create and modify modelled data.
+
 
 ## What is Domain-Driven Design?
 is the expansion upon and application of the **domain** concept, as it applies to the development of software. It aims to ease the creation of complex applications by connecting the related pieces of the software into an ever-evolving model.
 #### DDD focuses on three core principles:
-- Focus on the core **domain** and **domain logic**.
+- Focus on the core **domain** and **domain logic** __( business logic )__.
 - Base complex designs on models of the **domain**. 
 - Constantly collaborate with **domain experts**, in order to improve the application model and resolve any emerging **domain**-related issues.
 
-#### Terms defined by evan's book DDD
+#### Terms defined by evan's book of DDD
 - **Context**: The setting in which a word or statement appears that determines its meaning. Statements about a model can only be understood in a context.
 - **Model**: A system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain.
 - **Ubiquitous Language**: A language structured around the domain model and used by all team members to connect all the activities of the team with the software.
@@ -143,7 +142,9 @@ As we’ve discussed through a number of **design patterns** articles already, *
 > Domain-driven design also heavily emphasizes the ever-more-popular practice of continuous integration
 
 # Summery
-
+- TDD is a process of modifying the code in order to pass a test designed previously.
+- BDD lets us develop, test and think about the code from the view of the business owner.
+- DDD Focuses on the features in domain of our application this domain is defined by the bussiness logic.  
 
 
 <style>
