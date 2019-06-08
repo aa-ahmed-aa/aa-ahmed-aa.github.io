@@ -80,12 +80,8 @@ I want to return an electronically purchase merchandise within 14 days, so that 
 
 
 # TDD VS BDD
-we can summerize the differences between TDD and BDD in these silver bullets  
-1. Behavior __vs__ Test.
-2. Communication and feedback
-3. Writing Failing Tests __vs__ Writing Failing Feature Tests.
 
-### Behavior __vs__ Test.
+### Behavior __vs__ Test
 __In TDD__ I don’t care much about the output. The only thing needed is to carry out the test in a particular way.
 <br/>
 __But in BDD__ I don’t mind how you come up with the output, only that the output has to be correct under the GIVEN condition.
@@ -96,4 +92,10 @@ __In BDD__ you will come across a better specification since communication betwe
 __TDD__ may lack the ability to specify the exact behavior, but you achieve higher quality with software code.
 
 ### Writing Failing Tests __vs__ Writing Failing Feature Tests.
-both approaches start with writing a failing test and then picking it up from there. __In BDD__, a test is written that can satisfy both the developer and customer, __but in TDD__ you write a test that will only satisfy a developer and the code they write. As can be seen below, __BDD works over TDD__, which will make TDD implementation a better approach. So you can never say that BDD and TDD are entirely two different things.
+__In BDD__, a test is written that can satisfy both the developer and customer, __but in TDD__ you write a test that will only satisfy a developer and the code they write. As can be seen below.
+
+<style>
+h1 {
+    font-size: 50px;
+}
+</style>
