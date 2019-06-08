@@ -140,11 +140,12 @@ Not be confused with common __version control repositories__, the __DDD__ meanin
 ### Factories
 As we’ve discussed through a number of __design patterns__ articles already, __DDD__ suggests the use of a __factory__, which encapsulates the logic of creating complex objects and __aggregates__, ensuring that the client has no knowledge of the inner-workings of object manipulation.
 
+> Domain-driven design also heavily emphasizes the ever-more-popular practice of continuous integration
 
 # Summery
 
 
-> Domain-driven design also heavily emphasizes the ever-more-popular practice of continuous integration
+
 <style>
 h1 {
     font-size: 50px;
