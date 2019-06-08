@@ -13,12 +13,14 @@ about me check my blog and if you want to know more just follow me on twitter.</
 <ul class="skill-list">
 	<li>Git</li>
 	<li>PHP</li>
-	<li>Python 2/3</li>
+	<li>Python</li>
+	<li>C/C++</li>
 	<li>Javascript</li>
 	<li>MySQL - MongoDB</li>
-	<li>Angular</li>
+	<li>Angular 6</li>
 	<li>Docker</li>
-	<li>C/C++</li>
+	<li>NodeJs</li>
+	<li>Laravel/CakePhp</li>
 </ul>
 
 <h2>Solid Knowledge Of</h2>
