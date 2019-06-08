@@ -150,4 +150,8 @@ As we’ve discussed through a number of **design patterns** articles already, *
 h1 {
     font-size: 50px;
 }
+strong {
+    font-weight: 900;
+    color: #000;
+}
 </style>
