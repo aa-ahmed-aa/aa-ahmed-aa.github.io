@@ -11,7 +11,6 @@ category: blog
 author: ahmedkhd
 description: in this blog i will be taking about drived development TDD / BDD / DDD and the differences between them so get ready for an amazing topic.
 ---
-# Driven Development
 > As i would like to describe it driven development is the twist between developers and business guys that makes them survive together to translate the requirements into a software features in an organized flow.
 
 <div class="breaker"></div>
@@ -23,7 +22,7 @@ description: in this blog i will be taking about drived development TDD / BDD / 
         <figcaption class="caption">TDD Steps</figcaption>
     </div>
     <div class="toright">
-        <p>TDD can be defined as a programming practice that instructs developers to write new code only if an automated test has failed. This avoids duplication of code. TDD means "Test Driven Development". The primary goal of TDD is to make the code clearer, simple and bug-free.</p>
+        <p>a short for test-driven-development, TDD can be defined as a programming practice that instructs developers to write new code only if an automated test has failed. This avoids duplication of code. TDD means "Test Driven Development". The primary goal of TDD is to make the code clearer, simple and bug-free.</p>
         <h4>Advantages of TDD</h4>
         <ul>
             <li>Early bug notification.</li>
@@ -36,7 +35,7 @@ description: in this blog i will be taking about drived development TDD / BDD / 
 <div class="breaker"></div>
 
 # BDD
-BDD lets us develop, test and think about the code from the view of the business owner.
+a short for Behavior-driven-development, BDD lets us develop, test and think about the code from the view of the business owner.
 
 ## characteristics
 - tests are writen ahead of the code like tdd.
@@ -93,6 +92,15 @@ __TDD__ may lack the ability to specify the exact behavior, but you achieve high
 
 ### Writing Failing Tests __vs__ Writing Failing Feature Tests.
 __In BDD__, a test is written that can satisfy both the developer and customer, __but in TDD__ you write a test that will only satisfy a developer and the code they write. As can be seen below.
+
+
+# DDD
+a short for Domain-driven-development,DDD is a software development approach that uses and builds upon OOP(object opiented programming) principles and ideas, and now we have to ask two important questions.
+
+## <a href="#What_is_the_Domain" > What is the Domain?</a>
+>The common dictionary definition of domain is: “A sphere of knowledge or activity.”
+
+__Domain__ in the realm of software engineering commonly refers to the subject area on which the application is intended to apply. In other words, during application development, the domain is the __sphere of knowledge and activity around which the application logic revolves.__
 
 <style>
 h1 {
