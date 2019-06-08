@@ -94,10 +94,10 @@ __TDD__ may lack the ability to specify the exact behavior, but you achieve high
 __In BDD__, a test is written that can satisfy both the developer and customer, __but in TDD__ you write a test that will only satisfy a developer and the code they write. As can be seen below.
 
 
-# <a href="#DDD">DDD</a>
+# DDD
 a short for Domain-driven-development,DDD is a software development approach that uses and builds upon OOP(object opiented programming) principles and ideas, and now we have to ask two important questions.
 
-## <a href="#What_is_the_Domain" > What is the Domain?</a>
+## What is the Domain?
 >The common dictionary definition of domain is: “A sphere of knowledge or activity.”
 
 __Domain__ in the realm of software engineering commonly refers to the subject area on which the application is intended to apply. In other words, during application development, the domain is the __sphere of knowledge and activity around which the application logic revolves.__
@@ -105,8 +105,5 @@ __Domain__ in the realm of software engineering commonly refers to the subject a
 <style>
 h1 {
     font-size: 50px;
-}
-h1 > a {
-    color: #000;
 }
 </style>
