@@ -11,7 +11,7 @@ category: blog
 author: ahmedkhd
 description: in this blog i will be taking about drived development TDD / BDD / DDD and the differences between them so get ready for an amazing topic.
 ---
-<img style="margin-left: 30%;" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif"/>
+<img style="margin-left: 30%;" src="https://media.giphy.com/media/13871fiv9kBfkQ/giphy.gif"/>
 
 > As i would like to describe it driven development is the twist between developers and business guys that makes them survive together to translate the requirements into a software features in an organized flow.
 
@@ -37,6 +37,7 @@ description: in this blog i will be taking about drived development TDD / BDD / 
 <div class="breaker"></div>
 
 # BDD
+<img style="margin-left: 25%;" src="https://media.giphy.com/media/11zqdmpsLAF1yE/giphy.gif"/>
 a short for Behavior-driven-development, BDD lets us develop, test and think about the code from the view of the business owner.
 
 ## characteristics
@@ -97,6 +98,7 @@ I want to return an electronically purchase merchandise within 14 days, so that 
 
 
 # DDD
+<img style="margin-left: 25%;" src="https://media.giphy.com/media/KBx7fQoLxuV7G/giphy.gif"/>
 a short for Domain-driven-development,DDD is a software development approach that uses and builds upon OOP(object opiented programming) principles and ideas, and now we have to ask two important questions.
 
 ## What is the Domain?
