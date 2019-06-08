@@ -106,4 +106,7 @@ __Domain__ in the realm of software engineering commonly refers to the subject a
 h1 {
     font-size: 50px;
 }
+h1 > a {
+    color: #000;
+}
 </style>
