@@ -17,7 +17,7 @@ description: in this blog i will be taking about drived development TDD / BDD / 
 # TDD
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://aa-ahmed-aa.github.io/assets/tddSteps.jpg" alt="TDD Steps">
+        <img width="50%" class="image" src="https://aa-ahmed-aa.github.io/assets/tddSteps.jpg" alt="TDD Steps">
         <figcaption class="caption">TDD Steps</figcaption>
     </div>
     <div class="toright">
