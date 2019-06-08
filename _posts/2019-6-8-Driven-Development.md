@@ -110,12 +110,6 @@ is the expansion upon and application of the **domain** concept, as it applies t
 - Base complex designs on models of the **domain**. 
 - Constantly collaborate with **domain experts**, in order to improve the application model and resolve any emerging **domain**-related issues.
 
-#### Terms defined by evan's book of DDD
-- **Context**: The setting in which a word or statement appears that determines its meaning. Statements about a model can only be understood in a context.
-- **Model**: A system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain.
-- **Ubiquitous Language**: A language structured around the domain model and used by all team members to connect all the activities of the team with the software.
-- **Bounded Context**: A description of a boundary (typically a subsystem, or the work of a specific team) within which a particular model is defined and applicable.
-
 ## Building Blocks of DDD
 **Domain-driven design** also defines a number of high-level concepts that can be used in conjunction with one another to create and modify **domain models**:
 ### Entity 
