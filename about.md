@@ -12,20 +12,23 @@ about me check my blog and if you want to know more just follow me on twitter.</
 
 <ul class="skill-list">
 	<li>Git</li>
+	<li>NodeJS</li>
+	<li>Fastify / Express/ NestJs</li>
 	<li>PHP</li>
-	<li>Python</li>
+	<li>Laravel / Symfony / Sylius</li>
+	<li>Elasticsearch</li>
+	<li>Kafka / RabbitMQ</li>
+	<li>(no)SQL / MongoDB</li>
+	<li>Docker / K8s</li>
+	<li>VueJs / React / Angular 8+</li>
+	<li>Jenkines</li>
 	<li>C/C++</li>
-	<li>Javascript</li>
-	<li>MySQL - MongoDB</li>
-	<li>Angular 6</li>
-	<li>Docker</li>
-	<li>NodeJs</li>
-	<li>Laravel/CakePhp</li>
 </ul>
 
 <h2>Solid Knowledge Of</h2>
 <ul>
 	<li>Design patterns</li>
+	<li>System Design<>
 	<li>Algorithms and Problem solving techniques</li>
 	<li>Unit Testing</li>
 	<li>Automation</li>
