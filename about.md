@@ -12,6 +12,7 @@ about me check my blog and if you want to know more just follow me on twitter.</
 
 <ul class="skill-list">
 	<li>Git</li>
+	<li>NodeJS</li>
 	<li>PHP</li>
 	<li>Python</li>
 	<li>C/C++</li>
@@ -19,6 +20,7 @@ about me check my blog and if you want to know more just follow me on twitter.</
 	<li>MySQL - MongoDB</li>
 	<li>Angular 6</li>
 	<li>Docker</li>
+	<li>K8s</li>
 	<li>NodeJs</li>
 	<li>Laravel/CakePhp</li>
 </ul>
